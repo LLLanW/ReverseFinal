@@ -9,3 +9,8 @@
 * 在运行前打开一个空的记事本
 
 * 运行程序
+![start](https://github.com/LLLanW/ReverseFinal/blob/main/img/startinject.png)  
+
+![inject](https://github.com/LLLanW/ReverseFinal/blob/main/img/inject.png)  
+
+![checkid](https://github.com/LLLanW/ReverseFinal/blob/main/img/checknotepadid.png)  

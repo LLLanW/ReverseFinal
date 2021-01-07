@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+c:\users\16227\desktop\大三上\injectallthethings-master\dllmain\dllmain.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\16227\desktop\大三上\injectallthethings-master\dllmain\dllmain.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\16227\desktop\大三上\injectallthethings-master\dllmain\dllmain.cpp(6): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\16227\desktop\大三上\injectallthethings-master\dllmain\dllmain.cpp(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  dllmain.vcxproj -> C:\Users\16227\Desktop\大三上\injectAllTheThings-master\x64\Release\dllmain.dll
+  已复制         1 个文件。

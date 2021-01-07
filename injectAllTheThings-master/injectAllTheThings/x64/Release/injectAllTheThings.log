@@ -1,0 +1,48 @@
+﻿  auxiliary.cpp
+  main.cpp
+  t_CreateRemoteThread.cpp
+  t_NtCreateThreadEx.cpp
+  t_QueueUserAPC.cpp
+  t_ReflectiveDllInjection.cpp
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(59): warning C4477: “wprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const char *”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(59): note: 请考虑在格式字符串中使用“%hs”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(59): note: 请考虑在格式字符串中使用“%Ts”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(59): note: Visual C++ 使用非标准语义时会出现此警告
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(62): warning C4477: “wprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const char *”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(62): note: 请考虑在格式字符串中使用“%hs”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(62): note: 请考虑在格式字符串中使用“%Ts”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(62): note: Visual C++ 使用非标准语义时会出现此警告
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(69): warning C4477: “wprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const char *”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(69): note: 请考虑在格式字符串中使用“%hs”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(69): note: 请考虑在格式字符串中使用“%Ts”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(69): note: Visual C++ 使用非标准语义时会出现此警告
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(71): warning C4477: “wprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const char *”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(71): note: 请考虑在格式字符串中使用“%hs”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(71): note: 请考虑在格式字符串中使用“%Ts”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(71): note: Visual C++ 使用非标准语义时会出现此警告
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(74): warning C4477: “wprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const char *”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(74): note: 请考虑在格式字符串中使用“%hs”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(74): note: 请考虑在格式字符串中使用“%Ts”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(74): note: Visual C++ 使用非标准语义时会出现此警告
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(77): warning C4477: “wprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const char *”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(77): note: 请考虑在格式字符串中使用“%hs”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(77): note: 请考虑在格式字符串中使用“%Ts”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_reflectivedllinjection.cpp(77): note: Visual C++ 使用非标准语义时会出现此警告
+  t_RtlCreateUserThread.cpp
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_rtlcreateuserthread.cpp(39): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+  t_SetWindowsHookEx.cpp
+  t_suspendInjectResume.cpp
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_suspendinjectresume.cpp(154): warning C4477: “wprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“DWORD64”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_suspendinjectresume.cpp(154): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_suspendinjectresume.cpp(154): note: 请考虑在格式字符串中使用“%Id”
+  c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_suspendinjectresume.cpp(154): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\t_suspendinjectresume.cpp(149): warning C4101: “oldprot”: 未引用的局部变量
+  GetProcAddressR.c
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\getprocaddressr.c(70): warning C4311: “类型强制转换”: 从“LPCSTR”到“DWORD”的指针截断
+c:\users\16227\desktop\大三上\injectallthethings-master\injectallthethings\getprocaddressr.c(75): warning C4311: “类型强制转换”: 从“LPCSTR”到“DWORD”的指针截断
+  LoadLibraryR.c
+  正在生成代码
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  injectAllTheThings.vcxproj -> C:\Users\16227\Desktop\大三上\injectAllTheThings-master\x64\Release\injectAllTheThings.exe
+  已复制         1 个文件。
